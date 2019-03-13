@@ -11,3 +11,10 @@
 2. 用户可以设计和应用风格一致的图标，并且发给我，我将增加到下一个版本中。
 
 - 本应用遵循[《Android绿色应用公约》](https://green-android.org/)(Comply to “Convention of Green Apps for Android”)
+
+ <a href="xiangcaozhaopin://app/hr/buylist">跳转到购买记录列表</a>
+ <hr/>
+ <a href="xiangcaozhaopin://app/hr/shop">跳转到原生道具商城</a>
+ <hr/>
+ <a href="xiangcaozhaopin://app/hr/productdetail?pid=NCw0aIuNu37HLAg4&infourl=https://test.xiangcaozhaopin.com/onlineB/yearVipDesc.html&name=年会员&price=0.01&originalprice=20260.0">跳转到道具详情</a>
+ <a href="xp://app/hr/shop">xp</a>
