@@ -1,3 +1,7 @@
 # 那样记账
 
-那样记账相关
+- [更新记录](CHANGELOG.md)
+
+- [FAQ](FAQ.md)
+
+- [隐私政策](PrivacyPolicy.md)
